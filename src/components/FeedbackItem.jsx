@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import Card from "../shared/Card";
 import { FaTimes, FaEdit } from "react-icons/fa";
 import { useContext } from "react";
